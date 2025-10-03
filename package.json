@@ -1,0 +1,35 @@
+{
+  "name": "itour",
+  "version": "1.0.0",
+  "description": "A tourism website for Indore, Madhya Pradesh, showcasing attractions, events, and accommodations",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 8000 -c-1",
+    "dev": "npx http-server . -p 8000 -o -c-1",
+    "build": "echo 'No build process required for static site'",
+    "test": "echo 'No tests defined yet'"
+  },
+  "keywords": [
+    "tourism",
+    "indore",
+    "travel",
+    "website",
+    "nodejs",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Vasu Taunk",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utka7sh/iTour.git"
+  },
+  "bugs": {
+    "url": "https://github.com/utka7sh/iTour/issues"
+  },
+  "homepage": "https://utka7sh.github.io/iTour/",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
