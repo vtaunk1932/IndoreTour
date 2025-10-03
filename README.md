@@ -1,5 +1,5 @@
 iTour
-https://utka7sh.github.io/iTour/
+https://github.com/vtaunk1932/IndoreTour.git
 
 Description:
 
